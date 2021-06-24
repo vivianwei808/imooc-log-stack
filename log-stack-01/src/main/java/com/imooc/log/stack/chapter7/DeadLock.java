@@ -1,7 +1,9 @@
 package com.imooc.log.stack.chapter7;
 
 /**
- * <h1>通过线程堆栈日志定位并解决死锁问题</h1>
+ * <h1>通过线程堆栈日志定位并解决死锁问题
+ *  死锁的解决 还有：超时放弃
+ * </h1>
  * */
 public class DeadLock {
 
@@ -79,8 +81,8 @@ public class DeadLock {
 
     public static void main(String[] args) {
 
-//        deadLockExample();
+        deadLockExample();
 
-        hasNotDeadLockExample();
+//        hasNotDeadLockExample();
     }
 }

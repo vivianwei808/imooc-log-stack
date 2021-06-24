@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/imooc-log-stack.iml" filepath="$PROJECT_DIR$/.idea/imooc-log-stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/log-stack-01/log-stack-01.iml" filepath="$PROJECT_DIR$/log-stack-01/log-stack-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/log-stack-02/log-stack-02.iml" filepath="$PROJECT_DIR$/log-stack-02/log-stack-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/log-stack-03/log-stack-03.iml" filepath="$PROJECT_DIR$/log-stack-03/log-stack-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/log-stack-04/log-stack-04.iml" filepath="$PROJECT_DIR$/log-stack-04/log-stack-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/log-stack-springboot/log-stack-springboot.iml" filepath="$PROJECT_DIR$/log-stack-springboot/log-stack-springboot.iml" />
     </modules>
   </component>
 </project>
